@@ -2,6 +2,10 @@
 
 An Exploratory Data Analysis (EDA) project that studies how bank customers use cards, make transactions, and shop with merchants.
 
+## Dashboard
+
+[View the Tableau dashboard](https://public.tableau.com/views/Bank_17880914918440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Goal
 
 Find out which customer, card, transaction, and merchant features really change customer behaviour and business results. This helps the bank improve engagement, card usage, and customer experience.
