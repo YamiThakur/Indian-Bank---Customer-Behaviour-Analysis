@@ -6,7 +6,7 @@ An Exploratory Data Analysis (EDA) project that studies how bank customers use c
 
 [View the Tableau dashboard](https://public.tableau.com/views/Bank_17880914918440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard preview](dashboard.png)
+![Dashboard preview](Dashboard.png)
 
 ## Goal
 
